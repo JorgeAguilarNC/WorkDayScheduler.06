@@ -10,6 +10,14 @@ As an employee I am to create a simple calendar application that allows a user t
 
 github code link
 
+This is the original deployed code but could not get GitHub to create a web page so I had to create a new repo (below) https://github.com/JorgeAguilarNC/WorkDayScheduler.05
+
+git hub WordDayScheduler.06
+https://github.com/JorgeAguilarNC/WorkDayScheduler.06
+
+main app webpage
+https://jorgeaguilarnc.github.io/WorkDayScheduler.06/
+
 # Technology used
 
 This program used
